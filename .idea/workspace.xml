@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f811696e-333f-4e8f-9035-97fd5d6f9809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvinienceStore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Qualification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Applicant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/common/CoperatePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/common/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ApplicantService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/CashierService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ManagerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/impl/ApplicantServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/impl/CashierServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/impl/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/impl/ManagerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
