@@ -12,6 +12,8 @@ public class CashierServiceImpl implements CashierService {
         if (cashier.getRole().equals(Role.CASHIER)){
             customer.getCart().add(product);
             System.out.println(product.getName() + " has been sold to " + customer.getFirstName() + customer.getLastName());
+            System.out.println("==================RECIEPT===================" + "\n" +
+                    customer.getFirstName() + customer.getLastName() + "\n" + product.getName() + "-----------" + product.getPrice() );
         }else{
             System.out.println("Your are not authorized to sell this product");
         }
